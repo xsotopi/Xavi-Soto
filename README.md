@@ -1,7 +1,6 @@
 # My name is Xavi Soto
 
-## Rigth know I am currently studying:
-* Artificial Intelligence at [Universitat Autonoma de Barcelona.][UAB]
+I am currently studying Artificial Intelligence at [Universitat Autonoma de Barcelona.][UAB]
 
 In my github I will be posting some projects and topics related to things I learned in the Artificial intelligence degree.
 
